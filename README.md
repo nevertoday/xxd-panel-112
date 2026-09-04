@@ -4,7 +4,6 @@
 
 让一块不规整的纸面色域，托住一枚安静而闪光的记忆
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 
 <strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
@@ -223,7 +222,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
 本项目采用 **PolyForm Noncommercial License 1.0.0**。完整法律文本见 [LICENSE](LICENSE)，官方页面：<https://polyformproject.org/licenses/noncommercial/1.0.0>。
 
 - 允许个人学习、研究、实验、测试、兴趣项目、私人娱乐，以及符合协议定义的非商业组织使用。
-- 非商业用途可使用、复制、修改、制作衍生作品和分发，但必须附带许可证及 Required Notice。
+- 非商业用途可使用、复制、修改、制作衍生作品和分发，但必须附带许可证及作者提供的所有 `Required Notice:` 声明。
 - 商业产品、服务、收费交付、出售访问权或预期商业应用需要另行书面许可。
 - 许可证只授予明确写出的著作权与有限专利权，不授予商标、品牌名或其他未明确权利，也不能擅自转授权。
 - 收到书面违约通知后须在 32 天内纠正并采取实际补救，否则许可终止。

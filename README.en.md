@@ -4,7 +4,6 @@
 
 Let an irregular field of paper hold one quiet, glimmering memory.
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 
 <a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
@@ -223,7 +222,7 @@ Each of the 112 Panels keeps its own original prompt and aesthetic logic. This d
 This project is released under the **PolyForm Noncommercial License 1.0.0**. See [LICENSE](LICENSE) for the complete legal text and <https://polyformproject.org/licenses/noncommercial/1.0.0> for the official page.
 
 - Personal, educational, research, testing, hobby, private-entertainment, and eligible public-interest use is allowed.
-- Noncommercial users may use, copy, modify, create derivatives, and distribute with the license and required notices.
+- Noncommercial users may use, copy, modify, create derivatives, and distribute, provided they include the license and every `Required Notice:` statement supplied by the author.
 - Commercial products, services, paid delivery, selling access, or anticipated commercial use require separate written permission.
 - Only the stated copyright and limited patent rights are granted; trademarks, brand names, and sublicensing are not included.
 - A written violation notice allows 32 days to restore compliance and take practical corrective action before the license ends.

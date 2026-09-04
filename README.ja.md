@@ -4,7 +4,6 @@
 
 不規則な紙の色面に、静かに光る記憶をひとつ留める。
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
 
 <a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
@@ -223,7 +222,7 @@ GitHubから取得して同名のSkillをインストールします。ユーザ
 本プロジェクトは **PolyForm Noncommercial License 1.0.0** で提供されます。全文は [LICENSE](LICENSE)、公式ページは <https://polyformproject.org/licenses/noncommercial/1.0.0> を参照してください。
 
 - 個人の学習・研究・実験・テスト・趣味・私的娯楽と、対象となる公益組織の利用が許可されます。
-- 非営利目的なら使用・複製・改変・派生物作成・配布ができますが、ライセンスと通知を添付してください。
+- 非営利目的なら使用・複製・改変・派生物作成・配布ができますが、ライセンスと作者が提供したすべての `Required Notice:` 声明を添付してください。
 - 商用製品・サービス、対価を受ける納品、アクセス販売、商用利用予定には別途書面許可が必要です。
 - 明記された著作権と限定的特許権だけを許諾し、商標・ブランド名・再許諾の権利は含みません。
 - 書面の違反通知を受けた場合は32日以内に是正と実質的な補救を行わなければ、許諾が終了します。
