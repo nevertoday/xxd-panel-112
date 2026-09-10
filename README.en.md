@@ -29,6 +29,15 @@ Some photographs need less visual noise and a paper field capable of holding one
 
 It addresses paper styles that turn muddy and heavy, gold that becomes flashy, stiff full-scene tracing, and compositions filled edge to edge with colour blocks and decoration.
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -44,20 +53,6 @@ The Chinese file preserves the original prompt verbatim and is the sole runtime 
 | A quiet, vintage paper poster without heaviness? | Warm off-white paper, dark wax-crayon lines, and a few gold accents hold one memory. |
 | A recognisable subject without a full redraw? | Structure and atmosphere are distilled into a small seal inside a narrow central field. |
 | Gold that stays refined rather than flashy? | Gold marks only key contours; generous blank space and no heavy shadows keep it restrained. |
-
-## Transformation logic
-
-```text
-understand the photograph's structure and atmosphere → remove irrelevant detail → distil the core form → place it in an irregular horizontal field → redraw with dark wax-crayon lines, paper layers, and restrained gold → finish with whitespace and Risograph grain
-```
-
-## Recognisable finished traits
-
-- Reality and two-layer handmade-paper design share one complete canvas; paired modes are exact 50:50 with no third band.
-- The design side uses a rough off-white fibre paper and one narrow, irregular horizontal colour field with a small seal-like subject.
-- Deep matte wax-crayon lines are loose and naïve; a few gold or gold-powder lines may gently illuminate key contours.
-- The subject may cross into blank space, but no realistic shadows or busy decoration are added; light ageing and Risograph grain retain print warmth.
-- Small, soft, messy handwritten English phrases read like private notes and never dominate.
 
 ## Full capabilities and boundaries
 
