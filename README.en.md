@@ -11,21 +11,17 @@ Let an irregular field of paper hold one quiet, glimmering memory.
 
 ## Sample works
 
-**16:9 landscape left–right samples**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 portrait top–bottom samples**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-All eight were generated independently from different original references: reality left/design right in landscape and reality above/design below in portrait. They use intelligent English copy and passed the strict 50:50 two-region review.
 
 ## Best-fit situations and problems solved
 

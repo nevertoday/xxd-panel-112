@@ -11,21 +11,17 @@
 
 ## 샘플 작품
 
-**16:9 가로 좌우 샘플**
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
 
-| sample-05 | sample-06 |
-|---|---|
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
-
-**3:4 세로 상하 샘플**
-
 | sample-09 | sample-10 |
-|---|---|
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
-
-8장은 서로 다른 원본 참고 이미지에서 독립 생성했습니다. 가로는 원본 왼쪽·디자인 오른쪽, 세로는 원본 위·디자인 아래이며 영어 자동 문구와 엄격한 50:50 이중 영역 검사를 적용했습니다.
 
 ## 어울리는 상황과 해결하는 문제
 
