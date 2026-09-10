@@ -38,6 +38,24 @@ It addresses paper styles that turn muddy and heavy, gold that becomes flashy, s
 - **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
 - **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
 
+## Getting started
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-112.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
+```
+
+You can also install it directly with `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
+```
+
+The command fetches the GitHub repository and installs the same-named Skill. For a user-level Codex installation, append `--global --agent codex --yes`.
+
+After installation, restart the agent session and invoke `$xxd-panel-112`.
+
 ## Original prompt · five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -68,24 +86,6 @@ Resolve the visible-text locale explicitly. `prompt` follows the brief's sparse 
 - `left-right`: reality left and design right, exactly 50% each; never rotate it into a top-bottom layout.
 - `design-only`: the full canvas shows only this Panel’s design translation; the photo is reference only.
 - `wallpaper-pack`: generate a complete canvas independently for each device.
-
-## Getting started
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-112.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
-```
-
-You can also install it directly with `npx skills`:
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
-```
-
-The command fetches the GitHub repository and installs the same-named Skill. For a user-level Codex installation, append `--global --agent codex --yes`.
-
-After installation, restart the agent session and invoke `$xxd-panel-112`.
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel catalogue

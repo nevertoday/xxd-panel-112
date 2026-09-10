@@ -42,6 +42,24 @@
 - **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
 - **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
 
+## 使い始める
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-112.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
+```
+
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
+```
+
+GitHubから取得して同名のSkillをインストールします。ユーザー単位のCodexには `--global --agent codex --yes` を追加してください。
+
+インストール後にAgentセッションを再起動して呼び出します `$xxd-panel-112`.
+
 ## 原始プロンプト · 五言語
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -72,24 +90,6 @@
 - `left-right`：現実写真を左、デザインを右に、各50%。上下へ回転しません。
 - `design-only`：全画面を本Panelのデザインだけにし、写真は参照のみ。
 - `wallpaper-pack`：端末ごとに完全なキャンバスを生成します。
-
-## 使い始める
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-112.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
-```
-
-`npx skills` でも直接インストールできます：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
-```
-
-GitHubから取得して同名のSkillをインストールします。ユーザー単位のCodexには `--global --agent codex --yes` を追加してください。
-
-インストール後にAgentセッションを再起動して呼び出します `$xxd-panel-112`.
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel プロジェクト一覧

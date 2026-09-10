@@ -42,6 +42,24 @@
 - **وضّح منطقتي الواقع والتصميم:** في العلوي-السفلي أو اليسار-يمين، اذكر أي منطقة تحتفظ بالصورة وأيها يعاد تصميمها؛ وفي التصميم فقط والخلفيات اذكر أن اللوحة كلها يعاد تصميمها.
 - **اختبر صورة واحدة قبل المعالجة الدفعية:** أكّد النمط والنسبة والنص واللغة على صورة واحدة، ثم استخدم الإعدادات نفسها لمجلد كامل؛ غيّر متغيراً واحداً في كل جولة.
 
+## البدء
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-112.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
+```
+
+يمكنك أيضاً تثبيته مباشرةً باستخدام `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
+```
+
+يجلب الأمر المستودع من GitHub ويثبّت الـ Skill ذي الاسم نفسه. وللتثبيت العام في Codex أضف `--global --agent codex --yes`.
+
+بعد التثبيت أعد تشغيل جلسة الوكيل ثم استدعِ `$xxd-panel-112`.
+
 ## الموجّه الأصلي · خمس لغات
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -72,24 +90,6 @@
 - `left-right`: الصورة الواقعية يساراً والتصميم يميناً بنسبة 50% لكل منهما، ولا يُدار إلى تخطيط علوي/سفلي.
 - `design-only`: تعرض اللوحة الكاملة ترجمة هذا Panel فقط، والصورة مرجع لا يظهر.
 - `wallpaper-pack`: أنشئ لوحة كاملة مستقلة لكل جهاز.
-
-## البدء
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-112.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
-```
-
-يمكنك أيضاً تثبيته مباشرةً باستخدام `npx skills`:
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
-```
-
-يجلب الأمر المستودع من GitHub ويثبّت الـ Skill ذي الاسم نفسه. وللتثبيت العام في Codex أضف `--global --agent codex --yes`.
-
-بعد التثبيت أعد تشغيل جلسة الوكيل ثم استدعِ `$xxd-panel-112`.
 
 <!-- xxd-panel-catalog:start -->
 ## دليل مشاريع XXD Panel

@@ -38,6 +38,24 @@
 - **说明现实区与设计区：** 上下或左右对照时，注明哪一侧保留照片、哪一侧负责设计转译；纯设计和壁纸则说明整张画布都要重新设计。
 - **先单张试，再批量做：** 先用一张图确认模式、比例、文字和语言，再把同一套参数用于目录批处理；每轮只改一个变量，结果更容易比较。
 
+## 开始使用
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-112.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
+```
+
+也可以直接使用 `npx skills` 安装：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
+```
+
+命令会从 GitHub 获取仓库并安装同名 Skill；需要用户级 Codex 安装时，可追加 `--global --agent codex --yes`。
+
+安装后重新启动 Agent 会话，然后调用 `$xxd-panel-112`。
+
 ## 原始提示词 · 五种语言
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -68,24 +86,6 @@
 - `left-right`：现实照片在左，设计在右，严格各占 50%，不会旋转成上下结构。
 - `design-only`：整张画布只呈现本 Panel 的设计转译，照片只作参考。
 - `wallpaper-pack`：按设备分别生成完整画布。
-
-## 开始使用
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-112.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-112" ~/.codex/skills/xxd-panel-112
-```
-
-也可以直接使用 `npx skills` 安装：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-112 --skill xxd-panel-112
-```
-
-命令会从 GitHub 获取仓库并安装同名 Skill；需要用户级 Codex 安装时，可追加 `--global --agent codex --yes`。
-
-安装后重新启动 Agent 会话，然后调用 `$xxd-panel-112`。
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
