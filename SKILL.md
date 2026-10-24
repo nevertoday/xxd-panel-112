@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-112
-description: "Create XXD Panel 112 raster artwork by translating a source photograph into a quiet two-layer handmade-paper collage with a narrow irregular colour field, deep matte crayon lines, restrained gold accents, Risograph grain, and generous whitespace. Supports isolated image or directory inputs and strict 50:50 top-bottom or left-right comparisons, design-only work, and wallpapers. Use when the user invokes xxd-panel-112 or asks for this gold-accented paper-collage style."
+description: "XXD Panel 112｜Gold-Line Paper Chronicle: rebuilds the core shape and mood of a photo as a quiet two-layer paper card — rough, fibrous off-white handmade paper with one narrow horizontal collage band of muted but lively colour through the middle, its edges loose and uneven, the subject small like a seal inside the band and partly breaking out of it into the space, drawn in minimal, naive dark matte wax-pastel lines with a few carved lines and simple colour pieces, a restrained touch of fine gold line or gold dust on key contours, Risograph-like fine grain, generous whitespace above and below, and a few small, loose handwritten English phrases. Text is fixed to handwritten English. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-112 or asks for gold-line, wax-pastel, handmade-paper collage card or quiet Risograph-textured art from a photo."
 ---
 
 # XXD Panel 112

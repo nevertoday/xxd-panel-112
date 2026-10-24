@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-112"
-  short_description: "Quiet handmade-paper collage with matte crayon and restrained gold accents."
-  default_prompt: "Use $xxd-panel-112 on one image or image directory. Treat its Chinese original brief as the sole aesthetic authority, keep paired modes strict 50:50 with no third band, isolate every source, and create fresh complete-canvas PNG outputs."
+  short_description: "金线纸本志：手工纸上一条横向色块，托住一枚蜡粉笔线描的小主体，点一点金线"
+  default_prompt: "Use $xxd-panel-112 to turn my photo into Gold-Line Paper Chronicle artwork."
 
 policy:
   allow_implicit_invocation: true

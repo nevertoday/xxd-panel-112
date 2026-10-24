@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 112｜Gold-Line Paper Chronicle: rebuilds the core shape and mood of a photo as a quiet two-layer paper card — rough, fibrous off-white handmade paper with one narrow horizontal collage band of muted but lively colour through the middle, its edges loose and uneven, the subject small like a seal inside the band and partly breaking out of it into the space, drawn in minimal, naive dark matte wax-pastel lines with a few carved lines and simple colour pieces, a restrained touch of fine gold line or gold dust on key contours, Risograph-like fine grain, generous whitespace above and below, and a few small, loose handwritten English phrases. Text is fixed to handwritten English. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-112 or asks for gold-line, wax-pastel, handmade-paper collage card or quiet Risograph-textured art from a photo.",
+  "short_description": "金线纸本志：手工纸上一条横向色块，托住一枚蜡粉笔线描的小主体，点一点金线",
+  "zh-CN": {
+    "name": "金线纸本志",
+    "tagline": "让一条不规整的纸面色块，托住一枚安静、带一点金光的小小记忆。",
+    "look": "底层是米白、带粗纤维的手工纸，画面中间横着一条边缘随性的窄长色块，颜色低饱和但有生气，按照片自动匹配。主体缩成一枚小章印落在色块里，可以偏心、贴边，部分形状还会越出色块伸进留白。线条是深色哑光蜡粉笔画的，极简、松弛、略稚拙，几处关键轮廓加上纤细的金线或金粉，点到为止。色块上下都留大片空白，纸面带浅浅旧化和 Risograph 式细碎颗粒。文字只有几句潦草柔软的手写英文短句。",
+    "traits": ["双层手工纸", "横向窄色块", "深色蜡粉笔线", "克制金线", "自然越界", "Risograph 颗粒"],
+    "good": [
+      "主体轮廓简单、有一点诗意的照片：一只鸟、一枝花、一座桥、海上的小船",
+      "安静的景物或静物：窗边的杯子、一片山、一条小路",
+      "想做成书签、明信片、文艺卡片的照片"
+    ],
+    "poor": [
+      "需要中文或其他语言配字的需求，这一款的文字固定为手写英文",
+      "人物众多、信息密集或需要细节还原的照片",
+      "想要满版画面、浓烈色彩、写实渲染或大面积金色装饰的需求"
+    ]
+  },
+  "en": {
+    "name": "Gold-Line Paper Chronicle",
+    "tagline": "Lets one irregular band of paper colour hold a small, quiet memory with a hint of gold.",
+    "look": "The base is rough, fibrous off-white handmade paper, crossed through the middle by a narrow horizontal band of colour with loose edges, muted yet alive and matched to the photo. The subject shrinks to a small seal-like mark inside the band, placed off-centre or against its edge, with parts breaking out of the band into the open space. Lines are drawn in dark matte wax pastel, minimal, relaxed and slightly naive, and a few key contours get a fine gold line or gold dust, just a touch. Wide space is left above and below the band, and the paper carries light ageing and fine Risograph-like grain. Text is only a few loose, soft handwritten English phrases.",
+    "traits": ["Two-layer handmade paper", "Narrow horizontal band", "Dark wax-pastel line", "Restrained gold line", "Breaking the frame", "Risograph grain"],
+    "good": [
+      "Photos with a simple outline and a touch of poetry: a bird, a sprig of flowers, a bridge, a small boat at sea",
+      "Quiet scenery or still lifes: a cup by a window, a mountain ridge, a narrow path",
+      "Photos you want as a bookmark, postcard or literary card"
+    ],
+    "poor": [
+      "Requests for Chinese or other-language text, since the words here are always handwritten English",
+      "Photos with many people, dense information or detail that must be kept",
+      "Requests for a filled frame, strong colour, realistic rendering or lavish gold decoration"
+    ]
+  },
+  "ja": {
+    "name": "金線ペーパー誌",
+    "tagline": "不揃いな紙の色帯一本に、金がほのかに光る小さく静かな記憶をのせます。",
+    "look": "下地は生成りで繊維の粗い手漉き紙。画面の中ほどを、縁の気ままな細長い色帯が横切ります。色は彩度を抑えつつ生気があり、写真に合わせて決まります。主役は小さな印章のように縮んで色帯の中に置かれ、中心を外したり縁に寄せたりし、形の一部は色帯からはみ出して余白に伸びます。線は濃い色のマットなワックスパステルで、ごく簡潔でゆるく、少し素朴。要所の輪郭にだけ細い金線や金粉をのせ、控えめにとどめます。色帯の上下には広い余白があり、紙にはうっすらとした古び感とリソグラフのような細かな粒子があります。文字は走り書きの柔らかな手書き英語の短いフレーズが少しだけです。",
+    "traits": ["二層の手漉き紙", "横長の細い色帯", "濃いワックスパステルの線", "控えめな金線", "枠からのはみ出し", "リソグラフの粒子"],
+    "good": [
+      "輪郭がシンプルで少し詩的な写真：一羽の鳥、一枝の花、橋、海に浮かぶ小舟",
+      "静かな風景や静物：窓辺のカップ、山の稜線、細い小道",
+      "しおり、ポストカード、文芸カードにしたい写真"
+    ],
+    "poor": [
+      "日本語や他の言語の文字を入れたい場合（このスタイルの文字は手書きの英語に決まっています）",
+      "人が多い、情報が詰まっている、細部の再現が必要な写真",
+      "画面いっぱいの絵、強い色、写実的なレンダリング、たっぷりの金の装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "금선 종이 기록",
+    "tagline": "불규칙한 종이 색띠 하나가 금빛이 살짝 도는 작고 고요한 기억을 받쳐 줍니다.",
+    "look": "바탕은 미색에 섬유가 굵은 수제 종이이고, 화면 가운데를 가장자리가 자유로운 가늘고 긴 가로 색띠가 지나갑니다. 색은 채도가 낮지만 생기가 있으며 사진에 맞춰 정해집니다. 주인공은 작은 도장처럼 줄어 색띠 안에 놓이고, 중심에서 비켜나거나 가장자리에 붙으며, 형태 일부는 색띠 밖 여백으로 뻗어 나갑니다. 선은 짙은 무광 왁스 파스텔로 그어 아주 간결하고 느슨하며 조금 서툴고, 핵심 윤곽 몇 군데에만 가는 금선이나 금가루를 살짝 얹습니다. 색띠 위아래로 넓은 여백을 두고, 종이에는 옅은 세월감과 리소그래프 같은 잔 입자가 있습니다. 글자는 흘려 쓴 부드러운 손글씨 영어 짧은 문구 몇 개뿐입니다.",
+    "traits": ["두 겹 수제 종이", "가로로 긴 색띠", "짙은 왁스 파스텔 선", "절제된 금선", "틀을 넘는 형태", "리소그래프 입자"],
+    "good": [
+      "윤곽이 단순하고 조금 시적인 사진: 새 한 마리, 꽃가지, 다리, 바다 위 작은 배",
+      "고요한 풍경이나 정물: 창가의 컵, 산 능선, 좁은 오솔길",
+      "책갈피, 엽서, 문학 카드로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "한국어나 다른 언어 글자를 넣고 싶은 경우(이 스타일의 글자는 손글씨 영어로 고정됩니다)",
+      "사람이 많거나 정보가 빽빽하거나 세부 재현이 필요한 사진",
+      "꽉 찬 화면, 강한 색, 사실적 렌더링, 화려한 금장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجلّ الورق والخط الذهبي",
+    "tagline": "شريط واحد غير منتظم من لون الورق يحمل ذكرى صغيرة هادئة فيها لمحة من الذهب.",
+    "look": "الأساس ورق يدوي خشن الألياف أبيض مائل إلى الكريمي، يعبر وسطه شريط أفقي ضيق من اللون بحواف حرة، خافت التشبع لكنه حي، يُطابَق لونه مع الصورة. ينكمش العنصر إلى علامة صغيرة كالختم داخل الشريط، منزاحاً عن المركز أو ملاصقاً لحافته، وتخرج أجزاء منه من الشريط إلى الفراغ. تُرسم الخطوط بباستيل شمعي داكن مطفأ، شديدة الاختصار ومرتخية وفيها شيء من السذاجة، وتنال بعض المحيطات الأساسية خطاً ذهبياً رفيعاً أو غبار ذهب، لمسة فقط. يُترك فراغ واسع فوق الشريط وتحته، وفي الورق تعتيق خفيف وحبيبات دقيقة تشبه الريزوغراف. النص بضع عبارات إنجليزية قصيرة بخط يد مرتخٍ ناعم فقط.",
+    "traits": ["ورق يدوي بطبقتين", "شريط أفقي ضيق", "خط باستيل شمعي داكن", "خط ذهبي متحفظ", "تجاوز الإطار", "حبيبات الريزوغراف"],
+    "good": [
+      "صور بمحيط بسيط وفيها مسحة شعرية: طائر، غصن زهر، جسر، قارب صغير في البحر",
+      "مناظر هادئة أو أشياء ساكنة: فنجان قرب نافذة، خط جبل، درب ضيق",
+      "صور تريدها فاصل كتاب أو بطاقة بريدية أو بطاقة أدبية"
+    ],
+    "poor": [
+      "طلب نص بالعربية أو بلغة أخرى، فالكلمات هنا بالإنجليزية المكتوبة بخط اليد دائماً",
+      "صور فيها أشخاص كثيرون أو معلومات كثيفة أو تفاصيل يجب الإبقاء عليها",
+      "طلب إطار مملوء أو ألوان قوية أو تصيير واقعي أو زخرفة ذهبية وفيرة"
+    ]
+  }
+}
