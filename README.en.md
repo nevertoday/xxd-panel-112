@@ -193,7 +193,7 @@ XXD is Xiaoxiaodong's abbreviated brand name. This project is created and mainta
 
 ## Xiaoxiaodong multi-platform membership · CNY 699/year
 
-> **Advertising disclosure:** The QR code, membership, and paid-service links below are XXD promotional information. Scanning or purchasing is entirely optional and does not affect access to this open-source project.
+> **Advertising disclosure:** The QR code, membership, and paid-service links below are XXD promotional information. Scanning or purchasing is entirely optional and does not affect access to this project.
 
 One annual membership unlocks three benefits together: **Knowledge Planet + the XXD Member Prompt Library + membership for all General Skills**. They are included in one membership; no separate purchase is required.
 
@@ -229,11 +229,12 @@ One annual membership unlocks three benefits together: **Knowledge Planet + the 
 
 ## License
 
-This project is released under the **PolyForm Noncommercial License 1.0.0**. See [LICENSE](LICENSE) for the complete legal text and <https://polyformproject.org/licenses/noncommercial/1.0.0> for the official page.
+**Free for noncommercial use; commercial use needs separate permission.** This project (Skill, original prompts, scripts and documentation) is licensed under [PolyForm Noncommercial 1.0.0](LICENSE). The source is public, but it is not open source as the OSI defines it.
 
-- Personal, educational, research, testing, hobby, private-entertainment, and eligible public-interest use is allowed.
-- Noncommercial users may use, copy, modify, create derivatives, and distribute, provided they include the license and every `Required Notice:` statement supplied by the author.
-- Commercial products, services, paid delivery, selling access, or anticipated commercial use require separate written permission.
-- Only the stated copyright and limited patent rights are granted; trademarks, brand names, and sublicensing are not included.
-- A written violation notice allows 32 days to restore compliance and take practical corrective action before the license ends.
-- The project is provided **as is**, without warranties; users accept the risk to the extent permitted by law.
+- **Free:** personal study and hobby work; making images from your own photos to keep or share on your personal accounts (not ads, sponsored posts or product promotion); noncommercial changes and redistribution with the LICENSE included.
+- **Commercial use by individuals needs permission:** paid client work, ads and product promotion, small-batch merchandise, paid courses or communities. Usually granted, as the author confirms in writing.
+- **Organisations must sign an agreement:** any commercial use by a company, studio, MCN or brand, internal use included, and any integration into an app, website, SaaS or API.
+- **Not licensed:** reselling, renaming or repackaging the Skills, prompts or samples.
+- The Xiaoxiaodong membership does not include a commercial licence. The original photos in the samples belong to their photographers and are shown for demonstration only.
+
+To apply, add Xiaoxiaodong on WeChat and write "commercial licence". Full terms and the QR code: [Commercial licensing](COMMERCIAL.md).
